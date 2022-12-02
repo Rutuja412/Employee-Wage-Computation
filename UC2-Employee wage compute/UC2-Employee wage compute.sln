@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2-Employee wage compute", "UC2-Employee wage compute.csproj", "{36C282E2-8560-4001-8D87-9A1753557EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C282E2-8560-4001-8D87-9A1753557EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C282E2-8560-4001-8D87-9A1753557EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C282E2-8560-4001-8D87-9A1753557EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C282E2-8560-4001-8D87-9A1753557EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5ED9756-165E-4FEF-81CD-7FCB6461E223}
+	EndGlobalSection
+EndGlobal
