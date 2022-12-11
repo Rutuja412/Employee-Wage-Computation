@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBook.2", "AddressBook.2.csproj", "{8ADEB71E-60B5-4442-8051-3BBB5E068DAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC9.CompEmpWage", "UC9.CompEmpWage.csproj", "{D06DE3D1-1EF0-437E-B8A2-7698E89C5CFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8ADEB71E-60B5-4442-8051-3BBB5E068DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8ADEB71E-60B5-4442-8051-3BBB5E068DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8ADEB71E-60B5-4442-8051-3BBB5E068DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8ADEB71E-60B5-4442-8051-3BBB5E068DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06DE3D1-1EF0-437E-B8A2-7698E89C5CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06DE3D1-1EF0-437E-B8A2-7698E89C5CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06DE3D1-1EF0-437E-B8A2-7698E89C5CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06DE3D1-1EF0-437E-B8A2-7698E89C5CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F08A2BBC-E6C3-4AB3-A663-A952832D66A1}
+		SolutionGuid = {A5768F71-9D7C-4DD8-9141-B2A57CB71367}
 	EndGlobalSection
 EndGlobal
